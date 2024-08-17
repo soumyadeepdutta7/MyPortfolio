@@ -22,28 +22,28 @@ const Projects = () => {
           <Card 
             title="Lenovo Clone" 
             description="A responsive e-commerce site modeled after Lenovo's official website. Built with HTML, CSS, and Bootstrap, it features a clean UI with product listings and detailed product pages."
-            imgSrc="https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg"
+            imgSrc="https://raw.githubusercontent.com/adityaks-lts/Code-Kalyaan-2345/main/screenshots/Lenovo/S1.png"
             github="https://github.com/adityaks-lts/Code-Kalyaan-2345"
             live="https://lenovo-code-kalyaan.netlify.app/"
           />
           <Card 
             title="Zepto Clone"
             description="A dynamic site featuring curated, limited-time deals on various products and services, designed for an engaging and seamless shopping experience."
-            imgSrc="https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg"
+            imgSrc="https://raw.githubusercontent.com/Kranti00/Betwa-Interface-015/main/Site%20screenshots/Landing%20page.png"
             github="https://github.com/Kranti00/Betwa-Interface-015"
             live="https://zepto-masai.netlify.app/"
           />
           <Card 
             title="Weekend Planner"
             description="A React application for planning and managing weekend trips with features like user authentication and data visualization."
-            imgSrc="https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg"
+            imgSrc="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrky07HQQ8ljuxECVdvg_F0uoLcum0rQfUgQ&s"
             github="https://github.com/Hari3199/-Samsung-Saviors_058"
             live="https://my-weekend-planner.netlify.app/"
           />
           <Card 
             title="Paint Box Game"
             description="An interactive platform for creating art using HTML, CSS, and JavaScript with customizable grid size and color palette."
-            imgSrc="https://images.wallpaperscraft.com/image/single/system_scheme_blue_blueprint_10428_300x168.jpg"
+            imgSrc="https://raw.githubusercontent.com/soumyadeepdutta7/Paint-box-game/main/paint-box-game.png"
             github="https://github.com/soumyadeepdutta7/Paint-box-game"
             live="https://663294311163b5007957147b--thunderous-dolphin-56014b.netlify.app/"
           />

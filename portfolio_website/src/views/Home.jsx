@@ -68,9 +68,7 @@ const Home = () => {
             </div>
             <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
               <a
-                href="https://drive.google.com/file/d/179RLSTKTujU3E7s3tFgi29jXhinzK0wU/view?usp=sharing"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="https://drive.google.com/uc?export=download&id=179RLSTKTujU3E7s3tFgi29jXhinzK0wU"
                 className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-600 md:py-4 md:text-lg md:px-10"
               >
                 Resume
